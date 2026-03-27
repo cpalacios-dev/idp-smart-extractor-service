@@ -1,0 +1,15 @@
+# Web Framework y Servidor
+Flask==3.0.2
+Werkzeug==3.0.1
+
+# Procesamiento de Documentos (Pure Python)
+pypdf==4.1.0
+
+# Inteligencia Artificial (Google Gemini)
+google-generativeai==0.4.1
+google-genai
+
+# Configuración y Validación de Datos
+pydantic
+pydantic-settings
+PyYAML==6.0.1

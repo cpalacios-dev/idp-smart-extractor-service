@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Configuración Sensible (¡CRÍTICO!)
+overlays/dev/.env.yaml
+overlays/qa/.env.yaml
+overlays/prod/.env.yaml
+.env
+
+
+
+
+# Datos y Temporales
+app/data/input/*
+!app/data/input/.gitkeep
+temp_*
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
