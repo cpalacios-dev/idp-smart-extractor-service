@@ -1,5 +1,6 @@
-
 # IDP Smart Extractor Service 🤖📄
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/google-Gemini_3_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> | <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white" />  | <img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />   | <img src="https://img.shields.io/badge/PyPDF-E5322D?style=for-the-badge&logo=PyPDF&logoColor=white" /> 
 
 Servicio de procesamiento inteligente de documentos (IDP) que utiliza **IA Generativa (Gemini)** para extraer datos estructurados desde archivos PDF no estructurados (Boletas, Facturas, Liquidaciones).
 
