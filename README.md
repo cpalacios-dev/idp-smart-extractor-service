@@ -12,7 +12,7 @@ Este servicio expone una API REST construida con **Flask** que recibe documentos
 -   🐍**Lenguaje:** Python 3.12+ (Compatible con Python 3.14)    
 -   🌐**Framework Web:** Flask    
 -   📄**Procesamiento PDF:** PyPDF    
--   🧠**Motor de IA:** Google Gemini 1.5 Flash / 2.0 (vía REST API)    
+-   🧠**Motor de IA:** Google Gemini 3 Flash / 2.0 (vía REST API)    
 -   ✅**Validación de Datos:** Pydantic
     
 
